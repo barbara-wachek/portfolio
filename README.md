@@ -3,7 +3,7 @@
 
 ## About me
 
-Once a proofreader, today a digital bibliographer, in the future – a software tester. A few years ago, I made this path for myself and I follow it consistently, still learning new things. I have already gained the ISTQB Certificate and first experience on testing mobile and web applications. I am also Python enthusiast which I plan to use for automation testing.
+Once a proofreader, today a digital bibliographer and a software tester. A few years ago, I made this path for myself and I follow it consistently, still learning new things. I have already gained the ISTQB Certificate and first experience on testing mobile and web applications. I am also Python enthusiast which I plan to use for automation testing.
 
 MY TOP 5 CLIFTON STRENGTHS:
 1. Futuristic
